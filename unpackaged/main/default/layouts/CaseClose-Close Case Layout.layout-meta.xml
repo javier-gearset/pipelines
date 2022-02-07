@@ -20,7 +20,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>new_checkbox__c</field>
+                <field>notes__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
